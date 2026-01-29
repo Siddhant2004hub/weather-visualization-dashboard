@@ -7,3 +7,13 @@ temperature, humidity, and wind speed for multiple cities.
 - Python
 - Requests
 - Matplotlib
+## Screenshots
+
+### Dashboard Output
+![Dashboard](screenshots/dashboard.png)
+
+### Source Code
+![Code](screenshots/code.png)
+
+### GitHub Repository
+![GitHub](screenshots/github.png)
